@@ -87,7 +87,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Author
 
 **Sultan Ahmmed**
-GitHub: [@SultanRenter](https://github.com/SultanAhmmed)
+GitHub: [@SultanAhmmed](https://github.com/SultanAhmmed)
 
 ---
 
